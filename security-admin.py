@@ -14,7 +14,7 @@ def timebanner(s):
 
 os.system ('clear')
 print ('\033[1;32m')
-os.system ('figlet M R - D A R K ')
+os.system ('figlet M - A L A R I F I ')
 
 timebanner("\033[1;33m >>> https://t.me/name_dark  M R D A R K")
 
